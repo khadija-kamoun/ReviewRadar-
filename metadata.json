@@ -1,0 +1,5 @@
+{
+  "name": "ReviewRadar",
+  "description": "A powerful market intelligence tool that aggregates and analyzes public sentiment for any company or URL using AI-powered search grounding.",
+  "requestFramePermissions": []
+}
